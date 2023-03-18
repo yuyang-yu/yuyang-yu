@@ -10,10 +10,18 @@
 愿热情永存，愿热爱不灭，愿生活无憾
 
 # 💻 技术栈
+cpp   
+java   
+js   
+springboot  
+mysql
 
 
-🥇 日常使用: 
+🥇 日常使用:   
+vscode  
+idea
 
+- 🌱 I’m currently learning cpp
 
 
 <!--
@@ -22,7 +30,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
