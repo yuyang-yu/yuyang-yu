@@ -10,16 +10,16 @@
 愿热情永存，愿热爱不灭，愿生活无憾
 
 # 💻 技术栈
-cpp   
-java   
-js   
-springboot  
-mysql
+- cpp   
+- java   
+- js   
+- springboot  
+- mysql
 
 
 🥇 日常使用:   
-vscode  
-idea
+- vscode  
+- idea
 
 - 🌱 I’m currently learning cpp
 
