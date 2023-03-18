@@ -4,7 +4,7 @@
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-yuyang&show_icons=true&theme=radical)
 
-
+- 🌱 I’m currently learning cpp
 - 十分欢迎各位偶尔来看看我的博客
 
 愿热情永存，愿热爱不灭，愿生活无憾
@@ -21,7 +21,6 @@
 - vscode  
 - idea
 
-- 🌱 I’m currently learning cpp
 
 
 <!--
