@@ -7,17 +7,7 @@
 - 🌱 I’m currently learning cpp
 
 
-# 💻 技术栈
-- cpp   
-- java   
-- js   
-- springboot  
-- mysql
 
-
-🥇 日常使用:   
-- vscode  
-- idea
 
 
 
