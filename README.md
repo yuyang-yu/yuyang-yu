@@ -2,7 +2,6 @@
 
 
 
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyang-yu)
 
 - 🌱 I’m currently learning cpp
 
